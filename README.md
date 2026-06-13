@@ -15,8 +15,9 @@ I am interested in Artificial Intelligence, Machine Learning, and Data Science. 
 - Participate in learning opportunities such as Amazon ML Summer School
 
 ## 📫 Connect
-GitHub: https://github.com/agnibalasahu
-Linkdin: www.linkedin.com/in/agnibala-sahu-183018406
+-GitHub: https://github.com/agnibalasahu
+
+-Linkdin: www.linkedin.com/in/agnibala-sahu-183018406
 
 <!--
 **agnibalasahu/agnibalasahu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
