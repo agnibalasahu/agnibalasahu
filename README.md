@@ -2,7 +2,7 @@
 
 🎓 Computer Science Engineering Student
 
-I am interested in Artificial Intelligence, Machine Learning, and Data Science. Currently, I am building my skills in programming, problem-solving, and machine learning through coursework and personal projects.
+I am interested in Artificial Intelligence and Machine Learning. Currently, I am building my skills in programming, problem-solving, and machine learning through coursework and personal projects.
 
 ## 🌱 Currently Learning
 - Machine Learning
